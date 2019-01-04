@@ -1,0 +1,33 @@
+{
+  "name": "mpvue-router",
+  "version": "0.0.1",
+  "description": "在 mpvue 中使用类 vue-router 的路由写法",
+  "author": "steven",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "files": [
+    "dist",
+    "src"
+  ],
+  "keywords": [
+    "mpvue",
+    "router",
+    "vue-router",
+    "mpvue-router",
+    "mpvue-router-patch"
+  ],
+  "homepage": "https://github.com/wjtools/mpvue-router#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjtools/mpvue-router.git"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.6.1",
+    "rollup": "^0.58.2",
+    "rollup-plugin-babel": "^3.0.4"
+  }
+}

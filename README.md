@@ -1,6 +1,6 @@
 # mpvue-router
-> 在 mpvue 中使用类 vue-router 的路由写法
-> 基于 [mpvue-router-patch](https://github.com/F-loat/mpvue-router-patch#readme)，感谢原作者！
+> 在 mpvue 中使用类 vue-router 的路由写法<br>
+> 基于 [mpvue-router-patch](https://github.com/F-loat/mpvue-router-patch#readme)，感谢原作者！<br>
 > 修复返回上一页后 $route.query 取值为空的问题，以及一些定制功能
 
 ## 安装
